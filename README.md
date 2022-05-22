@@ -4,7 +4,10 @@
 - 📫 How to reach me:
 
 (mail) dawciu0001@gmail.com
+
 (google play) https://play.google.com/store/apps/developer?id=Winged+Dev
+
+(linkedin) https://www.linkedin.com/in/dawid-ciubak-74b687214/
 
 <!---
 dawciu0001/dawciu0001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
