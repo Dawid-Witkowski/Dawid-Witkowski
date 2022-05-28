@@ -1,13 +1,37 @@
-- 👋 Hi, I’m @dawciu0001
-- 👀 I’m interested in Android as an operating system, as well as creating apps for that lovely OS.
-- 🌱 In love with Compose as well as XML :)
-- 📫 How to reach me:
+Junior Mobile App Developer
+-----
+19 years old curious CS student, fan of android.
+been coding for years (Python (django, web scrapers), C++ (Algorithms), Java (Algorithms), Kotlin (Android applications).
+Please feel free to contact me if you need any further information. :)
+<br>
 
-(mail) dawciu0001@gmail.com
+Skills and tools:
+<br>
+<img src="https://user-images.githubusercontent.com/98784426/170840371-73cd7917-f2ac-433b-b9a7-ecc15e6d8fe3.png" height="40" width="40" title="Git">
+<img src="https://user-images.githubusercontent.com/98784426/170840429-849b1823-f86a-4c69-9d81-1a7362ece5e7.jpg" height="40" width="40" title="Jira">
+<img src="https://user-images.githubusercontent.com/98784426/170840947-8acc191b-9909-4705-9121-d8af71855ee2.png" height="40" width="40" title="Adobe XD">
+<img src="https://user-images.githubusercontent.com/98784426/170840454-6c83895f-bddb-410c-aa4d-df0dbea82909.png" height="40" width="40" title="Android Studio">
+<img src="https://user-images.githubusercontent.com/98784426/170840491-d720118e-7509-40c3-be10-4e99ec37911b.png" height="40" width="40" title="Trello">
+<img src="https://user-images.githubusercontent.com/98784426/170841020-474af2a9-8d6d-4625-9245-f102522624cc.jpg" height="40" width="40" title="Firebase">
+<img src="https://user-images.githubusercontent.com/98784426/170840506-91de5223-9be3-4a49-b84a-60e69647cec0.jpg" height="40" width="40" title="Kotlin">
+<img src="https://user-images.githubusercontent.com/98784426/170840535-1dcd9de6-b6d1-46e8-9af1-2bdeb9cc465d.png" height="40" width="40" title="Java">
+<img src="https://user-images.githubusercontent.com/98784426/170840677-166ff84c-fd92-4b24-b3cb-f2e6a9c9a295.png" height="40" width="40" title="MySQL">
 
-(google play) https://play.google.com/store/apps/developer?id=Winged+Dev
 
-(linkedin) https://www.linkedin.com/in/dawid-ciubak-74b687214/
+<b>Mobile Application Development</b>
+- Android SDK, SQLite
+- MVVM, MVP
+- Kotlin, Java
+
+Find me:
+
+<a href="mailto:Dawciu0001@gmail.com" target="_blank">Mail: Dawciu0001@gmail.com</a>
+
+<a href="https://play.google.com/store/apps/developer?id=Winged+Dev" target="_blank">Google Play: Winged Dev</a>
+
+<a href="https://www.linkedin.com/in/dawid-ciubak-74b687214/" target="_blank">Linkedin: Dawid Ciubak</a>
+
+
 
 <!---
 dawciu0001/dawciu0001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
