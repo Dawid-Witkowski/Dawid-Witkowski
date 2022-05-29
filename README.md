@@ -2,7 +2,7 @@ Junior Mobile App Developer
 -----
 19 years old curious CS student, fan of android.
 
-been coding for years (Python (django, web scrapers), C++ (Algorithms), Java (Algorithms), Kotlin (Android applications).
+been coding for years (Python (django, web scrapers), C++ (Algorithms), Java (Algorithms), Kotlin (Android applications)).
 
 Please feel free to contact me if you need any further information. :)
 <br>
