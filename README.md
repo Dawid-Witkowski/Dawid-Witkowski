@@ -31,7 +31,7 @@ Find me:
 
 <a href="https://play.google.com/store/apps/developer?id=Winged+Dev" target="_blank">Google Play: Winged Dev</a>
 
-<a href="https://www.linkedin.com/in/dawid-ciubak-74b687214/" target="_blank">Linkedin: Dawid Ciubak</a>
+<a href="https://www.linkedin.com/in/dawid-witkowski-74b687214" target="_blank">Linkedin: Dawid Witkowski</a>
 
 
 
