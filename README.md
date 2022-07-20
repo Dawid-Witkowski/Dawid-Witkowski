@@ -20,11 +20,6 @@ Skills and tools:
 <img src="https://user-images.githubusercontent.com/98784426/170840677-166ff84c-fd92-4b24-b3cb-f2e6a9c9a295.png" height="40" width="40" title="MySQL">
 
 
-<b>Mobile Application Development</b>
-- Android SDK, SQLite
-- MVVM, MVP
-- Kotlin, Java
-
 Find me:
 
 <a href="mailto:Dawciu0001@gmail.com" target="_blank">Mail: Dawciu0001@gmail.com</a>
