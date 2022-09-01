@@ -1,6 +1,7 @@
 Junior Mobile App Developer
 -----
-19 years old curious CS student, fan of android.
+19 years old curious CS student, fan of android, student at [Warsaw School of Information Technology (WIT)
+under the auspices of the Polish Academy of Sciences](https://www.wit.edu.pl/en)
 
 been coding for years (Python (django, web scrapers), C++ (Algorithms), Java (Algorithms), Kotlin (Android applications)).
 
@@ -23,8 +24,6 @@ Skills and tools:
 Find me:
 
 <a href="mailto:Dawciu0001@gmail.com" target="_blank">Mail: Dawciu0001@gmail.com</a>
-
-<a href="https://play.google.com/store/apps/developer?id=Winged+Dev" target="_blank">Google Play: Winged Dev</a>
 
 <a href="https://www.linkedin.com/in/dawid-witkowski-74b687214" target="_blank">Linkedin: Dawid Witkowski</a>
 
