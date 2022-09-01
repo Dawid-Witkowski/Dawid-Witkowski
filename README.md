@@ -1,8 +1,20 @@
-Junior Mobile App Developer
+Android Intern
 -----
-19 years old curious CS student, fan of android, student at [Warsaw School of Information Technology (WIT)](https://www.wit.edu.pl/en)
+About me:
+- 19 years old
+- Student at [Warsaw School of Information Technology (WIT)](https://www.wit.edu.pl/en)
+- Android enthusiast and an advanced learner
+- Currently working @ [Grid Dynamics](https://www.griddynamics.com/)
+- been coding for years:
 
-been coding for years (Python (django, web scrapers), C++ (Algorithms), Java (Algorithms), Kotlin (Android applications)).
+  Python (personal projects) -> Django, web scrapers, opencv
+  
+  Java (personal projects) -> Algorithms
+  
+  C++ (personal projects) -> Mostly school related projects, algorithms
+  
+  Kotlin (working experience and personal projects) -> Android development, algorithms
+
 
 Please feel free to contact me if you need any further information. :)
 <br>
