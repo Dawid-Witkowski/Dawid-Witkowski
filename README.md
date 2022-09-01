@@ -2,10 +2,10 @@ Android Intern
 -----
 About me:
 - 19 years old
-- Student at [Warsaw School of Information Technology (WIT)](https://www.wit.edu.pl/en)
 - Android enthusiast and an advanced learner
-- Currently working @ [Grid Dynamics](https://www.griddynamics.com/)
-- been coding for years:
+- Student at <a href="https://www.wit.edu.pl/en" target="_blank">Warsaw School of Information Technology (WIT)</a>
+- Currently working @ <a href="https://www.griddynamics.com/" target="_blank">Grid Dynamics</a>
+- been programming for years:
 
   Python (personal projects) -> Django, web scrapers, opencv
   
