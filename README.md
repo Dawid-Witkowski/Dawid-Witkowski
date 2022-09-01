@@ -1,7 +1,6 @@
 Junior Mobile App Developer
 -----
-19 years old curious CS student, fan of android, student at [Warsaw School of Information Technology (WIT)
-under the auspices of the Polish Academy of Sciences](https://www.wit.edu.pl/en)
+19 years old curious CS student, fan of android, student at [Warsaw School of Information Technology (WIT)](https://www.wit.edu.pl/en)
 
 been coding for years (Python (django, web scrapers), C++ (Algorithms), Java (Algorithms), Kotlin (Android applications)).
 
