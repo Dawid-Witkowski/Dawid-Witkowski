@@ -1,45 +1,11 @@
-Android Intern
------
-About me:
-- 19 years old
-- Android enthusiast and an advanced learner
-- Student at <a href="https://www.wit.edu.pl/en" target="_blank">Warsaw School of Information Technology (WIT)</a>
-- Currently working @ <a href="https://www.griddynamics.com/" target="_blank">Grid Dynamics</a>
-- been programming for years:
+# <p align="center">Hello There 👋 I'm Dawid</p>
 
-  Python (personal projects) -> Django, web scrapers, opencv
-  
-  Java (personal projects) -> Algorithms
-  
-  C++ (personal projects) -> Mostly school related projects, algorithms
-  
-  Kotlin (working experience and personal projects) -> Android development, algorithms
+<p align="center">An android developer from Poland.</p>
+<p align="center"><a href="mailto:Dawciu0001@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Send me a mail :)"></a>
+<a href="https://stackoverflow.com/users/15749574/justsightseeing"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" title="Find me on stackoverflow"></a>
+<a href="https://www.linkedin.com/in/dawid-witkowski-74b687214" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="Open my LinkedIn profile"></a></p>
 
-
-Please feel free to contact me if you need any further information. :)
-<br>
-
-Skills and tools:
-<br>
-<img src="https://user-images.githubusercontent.com/98784426/170840371-73cd7917-f2ac-433b-b9a7-ecc15e6d8fe3.png" height="80" width="80" title="Git">
-<img src="https://user-images.githubusercontent.com/98784426/170840429-849b1823-f86a-4c69-9d81-1a7362ece5e7.jpg" height="80" width="80" title="Jira">
-<img src="https://user-images.githubusercontent.com/98784426/170840947-8acc191b-9909-4705-9121-d8af71855ee2.png" height="80" width="80" title="Adobe XD">
-<img src="https://user-images.githubusercontent.com/98784426/170840454-6c83895f-bddb-410c-aa4d-df0dbea82909.png" height="80" width="80" title="Android Studio">
-<img src="https://user-images.githubusercontent.com/98784426/170840491-d720118e-7509-40c3-be10-4e99ec37911b.png" height="80" width="80" title="Trello">
-<img src="https://user-images.githubusercontent.com/98784426/198830702-06fc9444-8d42-495e-b734-018f654c275f.png" height="80" width="80" title="Firebase">
-<img src="https://user-images.githubusercontent.com/98784426/170840506-91de5223-9be3-4a49-b84a-60e69647cec0.jpg" height="80" width="80" title="Kotlin">
-<img src="https://user-images.githubusercontent.com/98784426/170840535-1dcd9de6-b6d1-46e8-9af1-2bdeb9cc465d.png" height="80" width="80" title="Java">
-<img src="https://user-images.githubusercontent.com/98784426/170840677-166ff84c-fd92-4b24-b3cb-f2e6a9c9a295.png" height="80" width="80" title="MySQL">
-
-
-Find me:
-
-<a href="mailto:Dawciu0001@gmail.com" target="_blank">Mail: Dawciu0001@gmail.com</a>
-
-<a href="https://www.linkedin.com/in/dawid-witkowski-74b687214" target="_blank">Linkedin: Dawid Witkowski</a>
-
-
-
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Dawwit0001&theme=dark&hide_border=false&include_all_commits=false&count_private=false")</img></p>
 <!---
 dawciu0001/dawciu0001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
