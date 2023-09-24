@@ -1,4 +1,4 @@
-# <p align="center">Hello There 👋 I'm Dawid</p>
+<p align="center">Hello There 👋 I'm Dawid</p>
 
 <p align="center">An android developer from Poland.</p>
 <p align="center"><a href="mailto:dawidwitkowski.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Send me a mail :)"></a>
